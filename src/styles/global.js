@@ -6,6 +6,9 @@ import { createGlobalStyle } from 'styled-components';
   #FFFFFF
   #CC181E
   #878787
+
+  #D90404
+  #0D0D0D
 */
 
 const GlobalStyle = createGlobalStyle`
